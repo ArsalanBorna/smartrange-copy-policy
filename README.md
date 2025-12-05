@@ -1,0 +1,1 @@
+# smartrange-copy-policy
